@@ -86,6 +86,7 @@ while True:
     if l7lwa(p1[c1]+p2[c2]+p3[c3]+p4[c4]):poz=0 
   else: 
     print"\nDouble TimeOut " 
+    
     continue 
     pass 
   c4=c4+1 
